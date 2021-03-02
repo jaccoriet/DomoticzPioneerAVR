@@ -1,7 +1,7 @@
 """
 <plugin key="PioneerAVR" name="Pioneer AVR" author="febalci" version="0.9.0">
     <params>
-        <param field="Address" label="IP Address" width="250px" required="true" default="192.168.1.60"/>
+        <param field="Address" label="IP Address" width="250px" required="true" default="192.168.2.174"/>
         <param field="Port" label="Port" width="50px" required="true" default="8102"/>
         <param field="Mode6" label="Debug" width="75px">
             <options>
